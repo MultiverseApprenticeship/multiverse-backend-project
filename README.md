@@ -1,5 +1,5 @@
 # multiverse-backend-project
-Personal Project Management Tool build using React and SpringBoot.
+Personal Project Management Tool build using Java and SpringBoot.
 
 User registration and login feature.
 User OAuth2 Authentication using JWT Token.
